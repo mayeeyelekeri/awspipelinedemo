@@ -4,5 +4,5 @@ id
 ls -lrt /tmp 
 ls -lrt ~
 echo $HOME
-cd /tmp; docker build -t springdemo:latest .
-docker run --name springdemo -p 8080:8080 -d springdemo:latest 
+cd /tmp; docker build -t awspipelinedemo:latest .
+docker run --name awspipelinedemo -p 8080:8080 -d awspipelinedemo:latest 
