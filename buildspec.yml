@@ -8,7 +8,7 @@ phases:
     commands:
       - echo Build completed on `date`
       - mvn clean package
-      - cp target/springdemo-1.0.0-SNAPSHOT.jar codedeploy 
+      - cp target/awspipelinedemo-1.0.0-SNAPSHOT.jar codedeploy 
       - ls -lrt codedeploy
 
 artifacts:

@@ -12,9 +12,9 @@
 		-->
 	</parent>  
 	<groupId>com.example</groupId>
-	<artifactId>springdemo</artifactId>
+	<artifactId>awspipelinedemo</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<name>springdemo</name>
+	<name>awspipelinedemo</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 	<!--	<java.version>11</java.version> -->  
